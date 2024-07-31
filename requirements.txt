@@ -1,0 +1,7 @@
+langchain==0.2.10
+langchain-community==0.2.9
+langchain-core==0.2.22
+langchain-google-genai==1.0.8
+python-dotenv==1.0.1
+streamlit==1.36.0
+googlesearch-python==1.2.4
